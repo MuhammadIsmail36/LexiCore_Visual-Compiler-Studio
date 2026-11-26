@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+lexicore/__init__.py
+lexicore/api.py
+lexicore/compiler.py
+lexicore.egg-info/PKG-INFO
+lexicore.egg-info/SOURCES.txt
+lexicore.egg-info/dependency_links.txt
+lexicore.egg-info/requires.txt
+lexicore.egg-info/top_level.txt
+tests/test_backend.py
